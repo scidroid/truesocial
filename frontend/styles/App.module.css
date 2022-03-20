@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  jusitfy-content: center;
+  margin: 2rem;
+}
+
+.button {
+  margin-left: 2rem;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 2rem;
+}

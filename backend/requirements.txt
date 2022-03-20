@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+dotenv
+fer
+cv2
+numpy
+deta

@@ -1,0 +1,29 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.title {
+  text-align: center;
+  font-weight: 900;
+  font-size: 5rem;
+  margin: 0 6rem 0 6rem;
+  background-image: linear-gradient(60deg, #1c7ed6, #12fff7);
+  background-clip: text;
+  color: transparent;
+}
+
+.subtitle {
+  text-align: center;
+  font-weight: 900;
+  font-size: 2rem;
+  margin: 0 6rem 0 6rem;
+}
+
+.button {
+  margin-top: 3rem;
+}
